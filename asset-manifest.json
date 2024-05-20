@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/News-wars/static/css/main.e6c13ad2.css",
+    "main.js": "/News-wars/static/js/main.ffd227f2.js",
+    "static/js/787.0e71f578.chunk.js": "/News-wars/static/js/787.0e71f578.chunk.js",
+    "index.html": "/News-wars/index.html",
+    "main.e6c13ad2.css.map": "/News-wars/static/css/main.e6c13ad2.css.map",
+    "main.ffd227f2.js.map": "/News-wars/static/js/main.ffd227f2.js.map",
+    "787.0e71f578.chunk.js.map": "/News-wars/static/js/787.0e71f578.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ffd227f2.js"
+  ]
+}
